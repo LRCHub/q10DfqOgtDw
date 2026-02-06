@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "Yellow Moon",
+  "base_artist": "Akeboshi",
+  "createdAt": "2026-02-06T12:33:56.402765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yellow Moon",
+      "artist": "The Neville Brothers",
+      "has_synced": false,
+      "path": "select/01_Yellow_Moon_The_Neville_Brothers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Plane Scraped Its Belly on a Sooty Yellow Moon",
+      "artist": "Soul Coughing & Roni Size",
+      "has_synced": true,
+      "path": "select/02_A_Plane_Scraped_Its_Belly_on_a_Sooty_Yellow_Moon_Soul_Coughing_&_Roni_Size.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Plane Scraped Its Belly On A Sooty Yellow Moon",
+      "artist": "Soul Coughing",
+      "has_synced": true,
+      "path": "select/03_A_Plane_Scraped_Its_Belly_On_A_Sooty_Yellow_Moon_Soul_Coughing.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yellow Moon",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/04_Yellow_Moon_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yellow Moon",
+      "artist": "Engelbert Humperdinck",
+      "has_synced": false,
+      "path": "select/05_Yellow_Moon_Engelbert_Humperdinck.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yellow Moon",
+      "artist": "明星 <Akeboshi>",
+      "has_synced": true,
+      "path": "select/06_Yellow_Moon_明星__Akeboshi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yellow Moon",
+      "artist": "Akeboshi",
+      "has_synced": true,
+      "path": "select/07_Yellow_Moon_Akeboshi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yellow Moon",
+      "artist": "Amason",
+      "has_synced": true,
+      "path": "select/08_Yellow_Moon_Amason.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Plane Scraped It's Belly On A Sooty Yellow Moon",
+      "artist": "Soul Coughing & Roni Size",
+      "has_synced": false,
+      "path": "select/09_A_Plane_Scraped_It's_Belly_On_A_Sooty_Yellow_Moon_Soul_Coughing_&_Roni_Size.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Soul Coughing & Roni Size / A Plane Scraped Its Belly On A Sooty Yellow Moon",
+      "artist": "Spawn",
+      "has_synced": false,
+      "path": "select/10_Soul_Coughing_&_Roni_Size___A_Plane_Scraped_Its_Belly_On_A_Sooty_Yellow_Moon_Spawn.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yellow Moon",
+      "artist": "Neville Brothers",
+      "has_synced": true,
+      "path": "select/11_Yellow_Moon_Neville_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yellow Moon",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/12_Yellow_Moon_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yellow Moon - Live",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/13_Yellow_Moon_-_Live_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Yellow Rose",
+      "artist": "Johnny Lee (With Lane Brody)",
+      "has_synced": false,
+      "path": "select/14_The_Yellow_Rose_Johnny_Lee_(With_Lane_Brody).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Yellow Rose of Texas",
+      "artist": "Hoyt Axton",
+      "has_synced": true,
+      "path": "select/15_Yellow_Rose_of_Texas_Hoyt_Axton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Yellow Rose of Texas (Album Version)",
+      "artist": "Hoyt Axton",
+      "has_synced": true,
+      "path": "select/16_Yellow_Rose_of_Texas_(Album_Version)_Hoyt_Axton.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Yellow Roses",
+      "artist": "Lissie",
+      "has_synced": true,
+      "path": "select/17_Yellow_Roses_Lissie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Yellow Roses",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/18_Yellow_Roses_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Yellow Roses (Album Version)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/19_Yellow_Roses_(Album_Version)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/20_Yellow_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/21_Yellow_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Yellow Submarine",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/22_Yellow_Submarine_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Lady in Yellow",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/23_Lady_in_Yellow_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Yellow Brick Road",
+      "artist": "Luniz",
+      "has_synced": false,
+      "path": "select/24_Yellow_Brick_Road_Luniz.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Yellow Ribbons",
+      "artist": "The LK",
+      "has_synced": false,
+      "path": "select/25_Yellow_Ribbons_The_LK.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "YELLOW",
+      "artist": "YOH KAMIYAMA",
+      "has_synced": true,
+      "path": "select/26_YELLOW_YOH_KAMIYAMA.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Yellow Man",
+      "artist": "Ost & Kjex",
+      "has_synced": false,
+      "path": "select/27_The_Yellow_Man_Ost_&_Kjex.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Y the Quale and Vaguely Bird Noisily Enjoying Their Forbidden Tryst/I'd Be a Yellow Feathered Loon",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/28_Y_the_Quale_and_Vaguely_Bird_Noisily_Enjoying_Their_Forbidden_Tryst_I'd_Be_a_Yel_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Y The Quale And Vaguely Bird Noisily Enjoying Their Forbidden Tryst \u0000 I'd Be A Yellow Feathered Loon",
+      "artist": "Of Montreal",
+      "has_synced": false,
+      "path": "select/29_Y_The_Quale_And_Vaguely_Bird_Noisily_Enjoying_Their_Forbidden_Tryst_\u0000_I'd_Be_A_Y_Of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Yellow",
+      "artist": "Okkervil River",
+      "has_synced": false,
+      "path": "select/30_Yellow_Okkervil_River.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Sand All Yellow",
+      "artist": "Kevin Coyne",
+      "has_synced": false,
+      "path": "select/31_Sand_All_Yellow_Kevin_Coyne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yellow Moon",
+      "artist": "Akeboshi",
+      "has_synced": false,
+      "path": "select/pl_01_Yellow_Moon_Akeboshi.txt"
+    }
+  ]
+}
